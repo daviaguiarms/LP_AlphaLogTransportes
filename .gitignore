@@ -1,0 +1,17 @@
+# Ferramentas e evidências locais de verificação
+.qa-tools/
+qa-results/
+qa_check.py
+qa_review.py
+qa_v2.py
+dev-notes/
+alpha-log-transportes-v2.zip
+__pycache__/
+*.py[cod]
+
+# Arquivos de ambiente e do sistema
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
